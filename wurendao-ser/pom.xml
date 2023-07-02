@@ -5,7 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.youthred</groupId>
-    <artifactId>wurendao</artifactId>
+    <artifactId>wurendao-ser</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
